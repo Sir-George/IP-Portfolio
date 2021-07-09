@@ -1,0 +1,50 @@
+body {
+    background-color:#eec299
+
+}
+h1{
+    color: rgb(11, 12, 11);
+    text-align:justify
+
+}
+p{
+    text-align:left;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#link {
+    padding: 10px;
+}
+.myDiv {
+    
+    background-color: lightblue;    
+    text-align: center;
+    padding: 30px;
+    border: 1px solid #4CAF50;
+    
+  }
+
+  .navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 25px;
+    overflow: hidden;
+    background-color: rgb(204, 194, 194);
+  }
+  
+  a {
+    float: right;
+    display: block;
+    color: rgb(1, 14, 13);
+    text-align: center;
+    padding: 14px 16px; 
+    font-size: 40px;  
+
+  }
+  
+ 
+  
+a:hover {
+    background-color: rgb(198, 218, 213);
+  }

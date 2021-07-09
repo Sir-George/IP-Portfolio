@@ -24,6 +24,14 @@ p{
     border: 1px solid #4CAF50;
     
   }
+  .linksDiv {
+    
+    background-color: lightblue;    
+    text-align: center;
+    padding: 30px;
+    border: 1px solid #4CAF50;
+    
+  }
 
   .navbar {
     list-style-type: none;
@@ -33,7 +41,7 @@ p{
     background-color: rgb(204, 194, 194);
   }
   
-  a {
+  ul a {
     float: right;
     display: block;
     color: rgb(1, 14, 13);
@@ -47,4 +55,13 @@ p{
   
 a:hover {
     background-color: rgb(198, 218, 213);
+  }
+  h3{
+      color: rgb(59, 54, 54);
+      text-align: center;
+  }
+  h3 a
+  {
+      text-align: center;
+      padding: 30px;
   }
